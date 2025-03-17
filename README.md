@@ -47,5 +47,5 @@ pip install pywhatkit pandas openpyxl
 
 ## Disclaimer
 
-This script is intended for educational purposes only. The author is not responsible for any misuse of the script.
+This script is intended for educational purposes only. 
 
